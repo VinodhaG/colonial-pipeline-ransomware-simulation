@@ -1,7 +1,7 @@
-# Colonial Pipeline Ransomware Attack — Simulation & Incident Response Case Study
+# Colonial Pipeline Ransomware Attack : Simulation & Incident Response Case Study
 
 A simulated ransomware attack based on the real-world 2021 Colonial Pipeline breach, covering the 
-full attack chain, detection, forensic analysis, and incident response planning — mapped to 
+full attack chain, detection, forensic analysis, and incident response planning ; mapped to 
 MITRE ATT&CK and NIST frameworks.
 
 ## Overview
@@ -16,7 +16,7 @@ attacker TTPs first-hand and build a matching detection, forensics, and response
 The real Colonial Pipeline attack stemmed from a legacy VPN account without MFA, allowing DarkSide 
 (a Russia-linked Ransomware-as-a-Service group) to gain remote access with stolen credentials. 
 IT systems (billing, scheduling) were encrypted, forcing a full pipeline shutdown that disrupted 
-~45% of the East Coast's fuel supply — despite no direct compromise of operational technology (OT).
+~45% of the East Coast's fuel supply,  despite no direct compromise of operational technology (OT).
 
 ## Attack Simulation
 
